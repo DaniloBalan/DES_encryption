@@ -1,0 +1,14 @@
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\bin\Debug\DES_WPF.exe.config
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\bin\Debug\DES_WPF.exe
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\bin\Debug\DES_WPF.pdb
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\App.g.cs
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\DES_WPF_MarkupCompile.cache
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\DES_WPF_MarkupCompile.lref
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\MainWindow.baml
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\DES_WPF.g.resources
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\DES_WPF.Properties.Resources.resources
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\DES_WPF.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\DES_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\DES_WPF.exe
+C:\Users\Даниил\Desktop\УНИВЕР\Прикладна криптографія\лаб_1\DES_WPF\DES_WPF\DES_WPF\obj\Debug\DES_WPF.pdb
